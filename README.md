@@ -1,2 +1,1 @@
-# My first project in Python
-# Snake, Water and Gun Game.....
+# jarvis ai
